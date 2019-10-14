@@ -1,7 +1,7 @@
 // add solution here
 function theBeatlesPlay(arrayOfMusicians,arrayOfInstruments){
 
-var musicianInstrument = []
+  var musicianInstrument = []
 
   for (var i = 0; i < arrayOfMusicians.length; i++) {
 
@@ -9,13 +9,13 @@ var musicianInstrument = []
 
   }
 
-
-    return musicianInstrument
-
+  return musicianInstrument
 
 }
 
-function johnLennonFacts(){
+function johnLennonFacts(arrayOfFacts){
+
+  
 
 }
 
