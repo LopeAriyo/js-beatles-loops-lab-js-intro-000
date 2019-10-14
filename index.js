@@ -8,18 +8,18 @@ var musicianInstrument = []
     musicianInstrument.push("" + arrayOfMusicians[i] + " plays " + arrayOfInstruments[i] + ".")
 
   }
-     
+
 
     return musicianInstrument
 
-  
+
 }
 
 function johnLennonFacts(){
-  
+
 }
 
 
 function iLoveTheBeatles(){
-  
+
 }
