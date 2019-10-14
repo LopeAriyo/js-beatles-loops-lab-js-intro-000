@@ -33,8 +33,8 @@ function iLoveTheBeatles(num){
 
 var BeatlesLove = []
 
-if num = 7 {
-do {
+if (num = 7) {
+  do {
     BeatlesLove.push ("I love the Beatles!")
     j++;
   }
