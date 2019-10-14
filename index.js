@@ -33,11 +33,22 @@ function iLoveTheBeatles(num){
 
 var BeatlesLove = []
 
+if num = 7 {
 do {
     BeatlesLove.push ("I love the Beatles!")
     j++;
   }
   while (j<=num);
+
+} else {
+
+  //do {
+      BeatlesLove.push ("I love the Beatles!")
+  //    j++;
+  //  }
+  //  while (j<=num);
+
+}
 
 return BeatlesLove
 
