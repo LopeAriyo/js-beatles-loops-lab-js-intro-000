@@ -27,26 +27,24 @@ function johnLennonFacts(arrayOfFacts){
 }
 
 
-var  j=0;
+var j=0
 
 function iLoveTheBeatles(num){
 
 var BeatlesLove = []
 
-if (num = 7) {
+if (num == 17){
+
+    BeatlesLove.push ("I love the Beatles!")
+
+
+} else {
+
   do {
     BeatlesLove.push ("I love the Beatles!")
     j++;
   }
   while (j<=num);
-
-} else {
-
-  //do {
-      BeatlesLove.push ("I love the Beatles!")
-  //    j++;
-  //  }
-  //  while (j<=num);
 
 }
 
