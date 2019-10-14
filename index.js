@@ -1,7 +1,25 @@
 // add solution here
-function theBeatlesPlay(){}
+function theBeatlesPlay(arrayOfMusicians,arrayOfInstruments){
 
-function johnLennonFacts(){}
+var musicianInstrument = []
+
+  for (var i = 0; i < arrayOfMusicians.length; i++) {
+
+    musicianInstrument.push("" + arrayOfMusicians[i] + " plays " + arrayOfInstruments[i] + ".")
+
+  }
+     
+
+    return musicianInstrument
+
+  
+}
+
+function johnLennonFacts(){
+  
+}
 
 
-function iLoveTheBeatles(){}
+function iLoveTheBeatles(){
+  
+}
