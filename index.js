@@ -31,7 +31,7 @@ var  j=0;
 
 function iLoveTheBeatles(num){
 
-BeatlesLove = []
+var BeatlesLove = []
 
 do {
     BeatlesLove.push ("I love the Beatles!")
