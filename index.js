@@ -5,7 +5,7 @@ var musicianInstrument = []
 
   for (var i = 0; i < arrayOfMusicians.length; i++) {
 
-    musicianInstrument.push("" + arrayOfMusicians[i] + " plays " + arrayOfInstruments[i] + ".")
+    musicianInstrument.push("" + arrayOfMusicians[i] + " plays " + arrayOfInstruments[i])
 
   }
 
